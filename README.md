@@ -3,7 +3,7 @@
 
 ## Project Intro/Objective
 
-With this tool I hope to help identify individuals who are at risk for chronic illnesses with information regarding individual's  health behaviors and other determinants of health such as access to healthcare, education and income. I used classification models on a Center for Disease Control (CDC) survey data to classify whether an individual is at risk of a chronic condition.
+The project aims to identify individuals who are at risk for chronic illnesses using information regarding individual's  health behaviors, and other determinants of health such as access to healthcare, education and income. I used classification models on a Center for Disease Control (CDC) survey data to classify whether an individual is at risk of a chronic condition.
 
 ## Methods Used
 
