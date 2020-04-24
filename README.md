@@ -3,7 +3,9 @@
 
 ## Project Intro/Objective
 
-The project aims to identify individuals risk for chronic illnesses using a predictive model, that takes in information regarding individual's  health behaviors, and other determinants of health such as access to healthcare, education and income. I used classification models on a Center for Disease Control (CDC) survey data to classify whether an individual is at risk of a chronic condition.
+The project aims to identify individual's risk of chronic illnesses using classification algorithms such as Logistic Regression and Naive Bayes classifier, and ensemble methods such as Random Forest with a Center for Disease Control survey data with over 400,000 participants. Taking in information about individual's health related behaviors and background information such as race, education and income, the model predicts whether individual's are at risk for a chronic illness.
+
+
 
 ## Methods Used
 
