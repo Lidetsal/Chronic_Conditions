@@ -38,4 +38,4 @@ data source
 
 The goal of this project is to create an automated tool that can predict whether an individual is at risk for a chronic illness and identify the top risk factors.
 
-data source - https://www.cdc.gov/brfss/data_documentation/index.htm
+
