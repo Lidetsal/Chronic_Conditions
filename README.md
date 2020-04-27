@@ -3,7 +3,7 @@
 
 ## Project Intro/Objective
 
-The project aims to identify individual's risk of chronic illnesses using classification algorithms such as Logistic Regression and Naive Bayes classifier, and ensemble methods such as Random Forest with a Center for Disease Control survey data with over 400,000 participants. Taking in information about individual's health related behaviors and background information such as race, education and income, the model predicts whether an individua is at risk for a chronic illness.
+The project aims to design a model that dentifys individuals who are at risk for chronic illnesses. The model is designed using classification algorithms such as Logistic Regression and Naive Bayes classifier, and ensemble methods such as Random Forest on a Center for Disease Control survey data with over 400,000 participants. Taking in information about individual's health related behaviors and background information such as race, education and income, the model predicts whether an individua is at risk for a chronic illness.
 Further, I created a [web application](https://chronic-predict.herokuapp.com/) that can be used to assess your risk for chronic illnesses.
 
 
