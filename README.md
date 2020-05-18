@@ -45,9 +45,9 @@ data source
 
 # Project Goals
 
-To design a model that identifies individuals who are at risk of having or developing a chronic Condition
-To create an automated tool that can predict whether an individual is at risk for a chronic illness 
-Identify the top chronic Illness risk factors
+- To design a model that identifies individuals who are at risk of having or developing a chronic Condition
+- To create an automated tool that can predict whether an individual is at risk for a chronic illness 
+- Identify the top chronic Illness risk factors
 
 
 
