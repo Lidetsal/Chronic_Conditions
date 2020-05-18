@@ -9,7 +9,7 @@ Further, I created a [web application](https://chronic-predict.herokuapp.com/) t
 
 ## Chronic Conditions considered
 
-- Heart diseases 
+- Coronary heart disease
 - Cancer 
 - Stroke 
 - Diabetes 
