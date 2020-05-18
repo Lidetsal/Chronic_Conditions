@@ -9,14 +9,14 @@ Further, I created a [web application](https://chronic-predict.herokuapp.com/) t
 
 ## Chronic Conditions considered
 
-Heart diseases 
-Cancer 
-Stroke 
-Diabetes 
-Heart attack
-Chronic Bronchitis
-Kidney Diseases
-Arthritis
+- Heart diseases 
+- Cancer 
+- Stroke 
+- Diabetes 
+- Heart attack
+- Chronic Bronchitis
+- Kidney Diseases
+- Arthritis
 
 
 ## Methods Used
